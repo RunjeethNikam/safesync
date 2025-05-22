@@ -1,4 +1,4 @@
-package com.safeshare.safeshare;
+package com.safeshare;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

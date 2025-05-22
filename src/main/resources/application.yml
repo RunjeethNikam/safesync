@@ -7,3 +7,7 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/safeshare
+
+jwt:
+  secret: safeshare_secret_key
+  expiration: 3600000  # 1 hour in milliseconds
